@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "## Notes",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewCLeonard/portfolio-generator.git"
+  },
+  "author": "andrewcleonard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewCLeonard/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/AndrewCLeonard/portfolio-generator#readme",
+  "keywords": [],
+  "dependencies": {
+    "inquirer": "^9.1.1"
+  }
+}
