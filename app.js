@@ -1,4 +1,4 @@
-// const fs = require("fs");
+import * as fs from "node:fs/promises";
 import inquirer from "inquirer";
 // import generatePage from "./src/page-template.js";
 
